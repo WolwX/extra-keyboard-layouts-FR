@@ -1,13 +1,4 @@
 # Extra Physical Keyboard Layouts
-## Development on pause indefinitely 
-To România and beyond!
-
-[<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="80px"/>](https://play.google.com/store/apps/details?id=varzan.extraKeyboardLayouts)
-[<img alt='Get it on IzzyOnDroid' src='https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png' height="80px"/>](https://apt.izzysoft.de/fdroid/index/apk/varzan.extraKeyboardLayouts)
-
-Adds a few choices to the list of layouts to use when a physical keyboard is connected e.g. via OTG or Bluetooth.
-
-Please star this issue if you agree that Android should support these layouts out of the box: https://issuetracker.google.com/issues/155769655
 
 Tested layouts:
 * Albanian
@@ -28,6 +19,7 @@ Tested layouts:
 * Divehi Phonetic
 * Dutch
 * EurKEY
+* French AZERTY
 * Halmak
 * Hindi Traditional INSCRIPT [<sup>1</sup>](#note1)
 * Jawi Phonetic QWERTY
